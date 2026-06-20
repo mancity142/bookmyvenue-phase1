@@ -8,6 +8,15 @@ Our solution: <img width="998" height="553" alt="image" src="https://github.com/
 
 For : Families, community groups,professionals,event organizers,venue owners
 
+WORKING OF THE PLATFORM
+
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/7d4199c0-52a3-4e5a-a098-3f76dd4da33a" />
+
+ROLES AND ACTOR INVOLVEMENTS:
+
+<img width="1000" height="555" alt="image" src="https://github.com/user-attachments/assets/2f606c47-c58d-4d81-94b8-8271ed8ee8ff" />
+
+
 
 
 
