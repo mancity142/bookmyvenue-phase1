@@ -19,27 +19,7 @@ ROLES AND ACTOR INVOLVEMENTS:
 PROJECT STRUCTURE
 
 
-bookmyvenue/                # Root directory
-├── manage.py               # Django entry point
-├── requirements.txt        # Dependencies (Django, DRF, Celery, etc.)
-├── .env                    # Environment variables (Sensitive keys)
-├── Dockerfile              # Containerization for easy community setup
-├── docker-compose.yml      # Service orchestration
-├── docs/                   # Documentation for contributors
-│
-├── core/                   # Project configuration
-│   ├── settings.py
-│   ├── urls.py             # Main router
-│   └── wsgi.py
-│
-├── apps/                   # Everything is neatly organized here
-│   ├── accounts/           # User/Role management
-│   ├── venues/             # Venue, Amenities, Geo-location
-│   ├── bookings/           # Availability, State Machine, Prices
-│   ├── notifications/      # Celery tasks, Email templates
-│   └── reviews/            # Peer-review system
-│
-└── media/                  # User uploads (Photos of venues)
+![Uploading image.png…]()
 
 
 
